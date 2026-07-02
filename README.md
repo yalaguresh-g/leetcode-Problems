@@ -17,6 +17,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
