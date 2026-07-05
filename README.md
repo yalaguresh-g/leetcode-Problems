@@ -8,6 +8,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
