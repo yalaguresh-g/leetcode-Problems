@@ -8,6 +8,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -95,4 +96,8 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
