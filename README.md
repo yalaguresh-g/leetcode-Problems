@@ -11,6 +11,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -21,6 +22,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -106,4 +108,13 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
