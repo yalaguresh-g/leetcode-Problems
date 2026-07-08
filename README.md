@@ -8,6 +8,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -78,6 +79,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -112,6 +114,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
