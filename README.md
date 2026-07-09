@@ -9,6 +9,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0001-two-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -23,6 +24,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math
@@ -74,6 +76,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Dynamic Programming
