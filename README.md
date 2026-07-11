@@ -11,6 +11,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -50,6 +51,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
@@ -117,6 +119,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
