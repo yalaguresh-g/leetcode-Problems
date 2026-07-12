@@ -12,6 +12,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -66,6 +67,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
@@ -90,6 +92,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
