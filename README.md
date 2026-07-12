@@ -22,6 +22,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0189-rotate-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -89,6 +90,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Dynamic Programming
