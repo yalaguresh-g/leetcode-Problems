@@ -9,6 +9,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0001-two-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -41,6 +42,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## String
@@ -90,6 +92,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
