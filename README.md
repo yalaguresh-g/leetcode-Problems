@@ -10,6 +10,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -86,6 +87,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -138,5 +140,6 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
