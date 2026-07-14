@@ -57,6 +57,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
@@ -150,4 +151,8 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
