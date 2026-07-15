@@ -65,6 +65,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -140,11 +141,13 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -160,9 +163,14 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
