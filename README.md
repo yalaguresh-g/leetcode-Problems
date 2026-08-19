@@ -39,6 +39,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0128-longest-consecutive-sequence](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
