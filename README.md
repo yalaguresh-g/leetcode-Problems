@@ -27,6 +27,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0189-rotate-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -41,6 +42,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0141-linked-list-cycle](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -192,4 +194,8 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
