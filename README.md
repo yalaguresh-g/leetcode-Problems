@@ -7,6 +7,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
@@ -63,6 +64,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0031-next-permutation/) | Medium |
@@ -186,4 +188,8 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0148-sort-list/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
