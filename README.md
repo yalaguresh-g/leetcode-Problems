@@ -28,6 +28,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0238-product-of-array-except-self](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -43,6 +44,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0141-linked-list-cycle](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Math
@@ -187,6 +189,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,4 +203,8 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
