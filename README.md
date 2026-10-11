@@ -10,6 +10,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0011-container-with-most-water](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
@@ -88,6 +89,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
