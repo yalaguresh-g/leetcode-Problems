@@ -31,6 +31,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0485-max-consecutive-ones](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -92,6 +93,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0035-search-insert-position](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
