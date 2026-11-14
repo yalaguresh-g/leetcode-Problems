@@ -26,6 +26,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -45,6 +46,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0128-longest-consecutive-sequence](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -164,6 +166,7 @@ Accepted LeetCode solutions in Java with explanations, time &amp; space complexi
 | [0088-merge-sorted-array](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/yalaguresh-g/leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
